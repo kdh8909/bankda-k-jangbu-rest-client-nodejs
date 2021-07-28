@@ -1,6 +1,6 @@
 {
   "name": "bankda-k-jangbu-rest-client-nodejs",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "뱅크다K 장부사 API 클라이언트 (NodeJS)",
   "main": "dist/index.js",
   "types": "dist/BankdaClient.d.ts",
