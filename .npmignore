@@ -1,0 +1,6 @@
+node_modules/
+example/
+/dist
+tsconfig.json
+.eslintignore
+.eslintrc.json
