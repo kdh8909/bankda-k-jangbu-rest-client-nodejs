@@ -1,12 +1,13 @@
 {
   "name": "bankda-k-jangbu-rest-client-nodejs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "뱅크다K 장부사 API 클라이언트 (NodeJS)",
   "main": "dist/index.js",
+  "types": "dist/BankdaClient.d.ts",
   "scripts": {
     "start": "npm start",
     "lint": "tslint -p tsconfig.json",
-    "build": "npm run lint && npm run test && tsc",
+    "build": "npm run lint && tsc",
     "example": "ts-node example/auth.ts"
   },
   "author": {
